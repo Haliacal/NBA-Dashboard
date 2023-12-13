@@ -38,7 +38,7 @@ Once all the measures have been created. It is relatively simple to put together
 
 ## Screenshots
 
-![[Teams.png]]
+![[/Assets/Teams.png]]
 
 ![[Players.png]]
 
