@@ -38,8 +38,8 @@ Once all the measures have been created. It is relatively simple to put together
 
 ## Screenshots
 
-![[Teams.png]]
+![Teams](https://github.com/Haliacal/NBA-Dashboard/assets/36955979/bdf3d636-2ea0-4da9-8265-0b1bd37cbd91)
 
-![[Players.png]]
+![Players](https://github.com/Haliacal/NBA-Dashboard/assets/36955979/42a7adb1-741d-4cb9-b3f6-2e96fad0402d)
 
-![[Best performances.png]]
+![Best performances](https://github.com/Haliacal/NBA-Dashboard/assets/36955979/8addcec3-8a64-457f-8b71-9cf7b2f3237e)
